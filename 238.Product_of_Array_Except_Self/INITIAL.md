@@ -1,0 +1,2 @@
+Initial Thoughts:
+If there is a 0 in the array, only one product can be calculated. If there are more than one 0s then result is an array of 0s of len(nums). Sorting probably doesn't help as multiplication is commutative and I would have the same factors. Brute force solution is obvious, but will not scale. This line "The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer." is important. Prefix or suffix? Upon google search, prefix is an array from 0 to i while suffix is i to len(nums) - 1

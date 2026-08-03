@@ -1,0 +1,1 @@
+Prefix and postfix arrays can be calculated seperately. Then you can use them to calculate the result array.
