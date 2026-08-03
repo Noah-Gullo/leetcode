@@ -1,0 +1,3 @@
+Initial Thoughts:
+So I am looking for all triplets whose numbers are unique and sum to 0. Order of the output/triplets themselves does not matter. It probably helps to sort the array.
+If the array is sorted then I can loop through every element and for every element I can check if there exists a combination of two other numbers that sum to 0. This makes it a two pointer problem with one pointer that iterates through every element.
