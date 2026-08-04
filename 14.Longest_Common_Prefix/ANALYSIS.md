@@ -1,0 +1,1 @@
+The solution uses an intuitive approach of iterating through each character of every string and checking if matches while building "res" the result string that contains the longest prefix. You stop building res if you run out of chars or if they no longer match. Otherwise you build res. Fairly intuitive.
