@@ -1,0 +1,2 @@
+Initial Thoughts:
+Sorting the array means that numbers will be closer to another than a random distribution of elements. This would likely minimize the difference between any two elements which maximizes the overall sum. 

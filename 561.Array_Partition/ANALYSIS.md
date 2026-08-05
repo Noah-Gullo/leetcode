@@ -1,0 +1,1 @@
+Same solution as mine. Sort the array so that the difference between every pair of elements is minimized which maximizes the overal sum. Then iterate over the array and count every second element since every even-indexed element will be the minimum of any given pair.
