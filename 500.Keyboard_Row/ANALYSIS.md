@@ -1,0 +1,1 @@
+By storing each row as a set, we can check each character in every word very quickly. We loop through every word, then check if all of the characters of every word are contained in this row. 
