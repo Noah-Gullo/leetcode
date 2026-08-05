@@ -1,0 +1,2 @@
+Initial Thoughts:
+Can I use two pointers. An initial pointer at 0 and 1 then iterate through the array. Since it is sorted, if the two pointers point to the same value I can remove the duplicate element and decrement a counter.
