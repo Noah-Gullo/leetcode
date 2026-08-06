@@ -1,0 +1,1 @@
+This algorithm compares the first and last digits then removes them checking to ensure theya re the same. Time complexity of log(n) and space of O(1)
