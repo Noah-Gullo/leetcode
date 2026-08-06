@@ -1,0 +1,2 @@
+Initial Thoughts:
+The ordering of this seems to call for a stack. Specifically, since a stack is Last In-First Out (LI-FO), I can push any opening characters onto the stack. Then if I see a closing character, I can pop off the top of the stack and check if it matches the closing character since the stack will hold opening characters. At the end, if the stack is not empty then I know that I am missing a closing character. It guarantees the ordering as well.

@@ -1,0 +1,1 @@
+Time and space must be O(n) because every character must be inspected and for any arbitrary nesting. This is a more readable solution.
