@@ -1,0 +1,1 @@
+Keep a dictionary instead of if, elif, else branch conditionals. Also note that anytime you subtract, the current numeral must be less than the next one which means you can subtract from total then the next number gets added.

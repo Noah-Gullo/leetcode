@@ -1,0 +1,2 @@
+Initial Thoughts:
+I need to keep track of the edge cases here. I can be subtracted when placed before V and X. X can be subtracted when placed before L and C. C can be subtracted from D and M. Everything else is given in the table. Can you loop through with a pointer for the current and one for next and if you find a special case check and increment the pointers when needed?
