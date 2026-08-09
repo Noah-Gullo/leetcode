@@ -1,0 +1,1 @@
+No need to sort. Just loop through and keep track of first and second max.
