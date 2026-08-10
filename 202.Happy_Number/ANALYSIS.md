@@ -1,0 +1,1 @@
+We can create a set to track the results of squaring and summing digits. Every time we do we add to a set. If it is 1 then it is a happy number if n is in visit then the result has been calculated already and there is a loop so we can return false. The helper function handles calculating the sum of squares.

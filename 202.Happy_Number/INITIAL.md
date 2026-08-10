@@ -1,0 +1,2 @@
+Initial Thoughts:
+The bolded "loops endlessly" matters. It will loop endlessly if it is a happy number or not. So I can add any result to a set then check if the resul already exists, meaning there will be a cycle. Return true if 1 false if the result of any squaring and summing of digits exists in the set.
