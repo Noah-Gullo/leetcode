@@ -1,0 +1,1 @@
+We can use xor property that any number xor'd with itself will be zero to find and return our two duplicaes which means that we can use less space.
