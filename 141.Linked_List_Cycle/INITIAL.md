@@ -1,0 +1,2 @@
+Initial Thoughts:
+Two pointers. One slow, meaning it increments one node at a time, and one fast going twice. Using Floyd's Cycling Algo if the fast pointer is ever null there is no cycle. If they ever point to the same thing there is a cycle.
