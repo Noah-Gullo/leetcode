@@ -1,0 +1,2 @@
+Initial Thoughts:
+I need to be able to determine if any particular substring is a primitive string. A primitive string is primitive if it is not empty and cannot be decomposed further. I can use a stack push inner and pop outer. Once empty I can 
