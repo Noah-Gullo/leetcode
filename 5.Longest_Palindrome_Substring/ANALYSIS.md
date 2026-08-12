@@ -1,0 +1,1 @@
+For every letter, check to find the longest palindrome. Expand around the center with two pointers and update the longest palindrome found as you go. O(n^2) as there are n possible letters/centers and each can expand up to n possible str len.
