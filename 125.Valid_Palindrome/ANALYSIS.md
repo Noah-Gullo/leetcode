@@ -1,0 +1,1 @@
+It cleans the string by looping through every character, converting them to lowercase, and joining them together only if the character is alphanumeric. THen it returns true if the string is equal to its reverse.

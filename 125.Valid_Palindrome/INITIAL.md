@@ -1,0 +1,2 @@
+Initial Thoughts:
+Pointers at both ends of the string. Ignore any non alphanumeric letters and continually move toward the center. Check if every letter matches. If at any point it doesn't return false. 
