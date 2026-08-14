@@ -1,0 +1,1 @@
+Have a pointer at the beginning and one at the end. Continually move each pointer to the center swapping the letters they point to.
