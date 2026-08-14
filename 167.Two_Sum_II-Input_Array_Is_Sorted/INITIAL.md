@@ -1,0 +1,2 @@
+Initial Thoughts:
+Because the array is sorted we can use two pointers approach. If the target is equal to the two values the pointer is currently pointing at return the value of [left + 1, right + 1]. If the left + right < target, increment left since we want the current sum to be bigger. If left + right > target, decrement right.
