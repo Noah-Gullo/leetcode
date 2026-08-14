@@ -1,0 +1,2 @@
+Initial Thoughts:
+Two pointers and calculate the current area. The shorter height determines the potential area so I awnt to move that one. Anytime I move it the width decreases which minimizes the area. 
