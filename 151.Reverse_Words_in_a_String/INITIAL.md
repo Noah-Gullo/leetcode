@@ -1,0 +1,2 @@
+Initial Thoughts:
+I need some way of determining which characters are words. I can move in the opposite direction and have one pointer at the end of every word while another traverses to find the beginning. Then I can build the result string backwards.
