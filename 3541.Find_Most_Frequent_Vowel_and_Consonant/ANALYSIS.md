@@ -1,0 +1,1 @@
+I loop through and keep track of the counts in a hash table. Then I iterate through the hash table and find the max vowel and consonant.
