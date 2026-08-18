@@ -1,0 +1,1 @@
+Simpler code. Can concat lists directly with + 
