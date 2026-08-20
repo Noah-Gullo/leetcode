@@ -1,0 +1,2 @@
+Initial Thoughts:
+Loop through the array once and store all values as keys in a hash table. The indices can be values in the hash table. Then loop again. For any given value check if it exists as a key in the hash table and if so if the indices are less. Increment the count if those conditions are met.
