@@ -1,0 +1,2 @@
+Initial Thoughts:
+I can use a hash table where the key is the number and the value is the number of times that number appears. Then I can iterate through the hash table and calculate the score by multiplying each number with its frequency and adding it to the total score.
