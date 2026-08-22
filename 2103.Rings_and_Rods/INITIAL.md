@@ -1,0 +1,2 @@
+Initial Thoughts:
+Make a hash_table where the key is the position and the values are an array containing the colors corresponding to each position. Then loop through and check for every position if it has all three colors. 
