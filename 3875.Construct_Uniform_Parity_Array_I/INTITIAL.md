@@ -1,0 +1,2 @@
+Initial Thoughts:
+I can check the parity of the first element of num2 as either even or odd by using % 2. Then I can loop through num1 and check if every element matches the parity. If it does I can return True otherwise False.
