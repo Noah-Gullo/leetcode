@@ -1,0 +1,1 @@
+Optimal solution is noticably slower in terms of time complexity asymptotically with O(nlogn) in comparison with my O(n) solution, however on a smaller scale .sort() utilizes highly optimized C (Timsort) and is likely faster at smaller input arrays in comparison with my interpreted python. Another approach here is to do Boyer–Moore voting which gives O(n) time and O(1) space.

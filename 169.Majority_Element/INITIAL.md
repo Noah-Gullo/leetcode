@@ -1,0 +1,2 @@
+Initial Thoughts:
+Create a hash table with the keys as the values themselves and the values as the count of each number. Iterate over the hash table and check if any value is greater than n/2 which can be returned as the majority element. 
