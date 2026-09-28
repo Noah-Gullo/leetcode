@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep a stack. Pop onto stack whenever "(" and pop off stack whenever ")". Keep track of max length and whenever adding to stack check if a new max length has been found. Return max length. 
