@@ -1,0 +1,1 @@
+It's easier to have a set and check the length. Because we can discard duplicate elements there is no need for a hash_table here.

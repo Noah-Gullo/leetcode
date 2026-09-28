@@ -1,0 +1,2 @@
+Initial Thoughts:
+Keep a hash table of every character that appears with their respective counts. Check if the length of the hash_table = length of the English alphabet = 26 char at the end. Return true if criteria met, false otherwise. This works since input constraints are only lowercase English characters.
