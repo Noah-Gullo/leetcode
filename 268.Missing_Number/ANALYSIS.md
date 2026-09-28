@@ -1,0 +1,1 @@
+Since we know the range as [0 to n] and each number is distinct within the range. We can sum all of the numbers from 0 to n as a prospective sum, then we can add up the actual numbers within nums and subtract the prospective sum minus the actual sum to return the missing element.
