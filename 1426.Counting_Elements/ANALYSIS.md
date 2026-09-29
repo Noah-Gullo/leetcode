@@ -1,0 +1,1 @@
+Alternative approach using a hash_map instead of a set. Personally I believe my approach is better since you do not need the count of every element since duplicate elements will check the hash set individually.
