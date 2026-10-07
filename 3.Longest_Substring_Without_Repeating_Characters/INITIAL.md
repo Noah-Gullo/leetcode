@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep a hash map whose keys are the characters withiin s and the values are the index where it has last been seen. Incremeent count provided that the current character is not in the hash map. If the current character is within the hash map update the value as the current index and reset count to 0. Keep track and return the max count.
