@@ -1,0 +1,2 @@
+Initial thoughts:
+The linked list is already sorted, so I can fosu on removing duplicates. I can iterate through the linked list from 0 to n - 2 and check if the next node is a duplicate by if the value of curr.next = curr. If it does then I can remove it and link to the element after it. I will need to have a while loop to ensure that I remove all duplicates even if it is not the immediate next one.
