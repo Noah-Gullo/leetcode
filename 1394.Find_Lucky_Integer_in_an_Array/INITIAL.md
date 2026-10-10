@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep a hash table called counts where the key is the element and the value is its frequency. Iterate through the hash table and keep track of the maximum lucky integer where lucky integers are key == value. Initialize max to -1 so if none are found it returns -1 as specified.
