@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep frequency map with keys as characters in the string and value as the number of times that appears in the string by iterating over s and using a hash map/dict. Return the value associated with letter // the len(s)
