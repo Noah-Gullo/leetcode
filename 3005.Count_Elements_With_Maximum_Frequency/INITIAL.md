@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep a hash map counts where the key is the element and the value is the number of times it appears. Iterate through that hash map and keep track of both the maximum frequency and the number of elements that match that max frequency.
