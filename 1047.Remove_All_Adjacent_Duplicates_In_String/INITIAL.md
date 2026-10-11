@@ -1,0 +1,2 @@
+Initial thoughts:
+Keep a stack that every character gets popped onto. Check if a letter is a duplicate adjacent by checking its value against the top of the stack. Pop it off if it is otherwise add it on.
