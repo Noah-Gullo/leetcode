@@ -1,0 +1,2 @@
+Initial thoughts:
+Iterate through the string from 0 to n - 1 characters. For every character, if it is a lowercase character check if the next character is a matching uppercase; if it is an uppercase character check if the next character is a matching lowercase. If it is then pop the current character off the stack
