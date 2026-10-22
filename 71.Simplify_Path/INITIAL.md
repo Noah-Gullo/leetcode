@@ -1,0 +1,2 @@
+Initial thoughts:
+This problem is going to leverage a stack's LI-FO property since we want the ability to go up directories. I want to keep track of the start of directories by checking where a / starts and / ends it. I can keep a stack that holds all of the directories and joins with "/" at the end. Whenever I see .. I want to pop from the top of the stack. Whenever I see . I don't want to append it onto the stack. 
